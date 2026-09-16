@@ -1,0 +1,10 @@
+{
+  "name": "th-gensokyo-industry",
+  "version": "0.0.0",
+  "title": "Gensokyo: Industry",
+  "author": "UnknownRori",
+  "contacts": "unknownrori+factorio@proton.me",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "Lorem Ipsum"
+}
